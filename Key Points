@@ -1,0 +1,20 @@
+Here is some Key points:-
+
+- Total number of employees: 50,000
+- Total male employees: 25,059
+- Total female employees: 24,941
+- Attrition rate: 16.54%
+- Average daily rate: $798.68
+- Average hourly rate: $24.94
+- Job titles with the highest attrition rates: Hardware (20%), R&D (18%), and Support (17%)
+- Job titles with the lowest attrition rates: Research (12%), Sales (13%), and Software (14%)
+- Departments with the highest attrition rates: Labestia (22%), Tepnica (21%), and Sales (20%)
+- Departments with the lowest attrition rates: R&D (14%), HR (13%), and Software (12%)
+- Employees with the highest attrition rates: Those with 1-10 years of experience (19%) and those with 31-40 years of experience (18%)
+- Employees with the lowest attrition rates: Those with 11-20 years of experience (15%) and those with 21-30 years of experience (16%)
+- Overall, the dashboard shows that the company has an attrition rate of 16.54%, which is higher than the average for the tech industry (12.3%). 
+  The attrition rate is highest among hardware, R&D, and support staff, and among employees with 1-10 years of experience and those with 31-40 years of experience. 
+  The attrition rate is lowest among research, sales, and software staff, and among employees with 11-20 years of experience and those with 21-30 years of experience.
+
+- The dashboard also shows that the average daily rate for employees is $798.68 and the average hourly rate is $24.94. However, 
+  it is not possible to tell from the dashboard how these rates vary by job title, department, or experience level.
